@@ -6,3 +6,5 @@ This is my blog for C++ study
 
 2 std::variant and std::get
 
+3 std::bind and std::ref
+
