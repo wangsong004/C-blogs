@@ -8,3 +8,4 @@ This is my blog for C++ study
 
 3 std::bind and std::ref
 
+4 OpenMp reduction
