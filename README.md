@@ -8,4 +8,6 @@ This is my blog for C++ study
 
 3 std::bind and std::ref （C++ 11）
 
-4 OpenMp reduction
+4 OpenMP reduction
+
+5 std::hash
