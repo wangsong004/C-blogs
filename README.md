@@ -11,3 +11,7 @@ This is my blog for C++ study
 4 OpenMP reduction
 
 5 std::hash
+
+6 type traits
+
+7 std enable_if  and std::enable_if_t
